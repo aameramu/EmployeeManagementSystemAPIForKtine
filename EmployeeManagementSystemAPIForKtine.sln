@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementSystemAPIForKtine", "EmployeeManagementSystemAPIForKtine\EmployeeManagementSystemAPIForKtine.csproj", "{DFB607DC-EA70-4EB1-A7DB-489756D3FD0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.DAL", "EMS.DAL\EMS.DAL.csproj", "{CA9759EC-21B3-4AFD-8359-68AC0F86813E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB607DC-EA70-4EB1-A7DB-489756D3FD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB607DC-EA70-4EB1-A7DB-489756D3FD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB607DC-EA70-4EB1-A7DB-489756D3FD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB607DC-EA70-4EB1-A7DB-489756D3FD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9759EC-21B3-4AFD-8359-68AC0F86813E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9759EC-21B3-4AFD-8359-68AC0F86813E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9759EC-21B3-4AFD-8359-68AC0F86813E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9759EC-21B3-4AFD-8359-68AC0F86813E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C19476-ED3E-48B4-8548-8ADD53841711}
+	EndGlobalSection
+EndGlobal
